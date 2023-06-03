@@ -35,8 +35,8 @@ Contributions to Expense Tracker are welcome! If you encounter any bugs, issues,
 License
 
 The development of Expense Tracker was made possible by utilizing various open-source libraries, packages, and resources. We would like to express our gratitude to the Flutter community for their continuous support and contributions to the ecosystem.
-Contact
 
+Contact
 For any inquiries or further information, please contact apoorvtechh@gmail.com
 
 
