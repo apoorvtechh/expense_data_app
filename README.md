@@ -1,8 +1,6 @@
 
 # Expense Tracker: Flutter App
 
-Expense Tracker (Replace the URL with the actual image URL of your project)
-
 # Description
 
 Expense Tracker is a mobile application developed using the Flutter framework, designed to help users track and manage their expenses. The app provides a user-friendly interface to record and categorize expenses, making it easier for individuals to keep a close eye on their spending habits.
@@ -22,19 +20,14 @@ Key Features
 ## Installation
 
 **Ensure you have Flutter and Dart installed on your development environment.
-**Clone this repository using the following command:
 
-  git clone https://github.com/yourusername/expense-tracker.git
+**Clone this repository using the following command:git clone https://github.com/yourusername/expense-tracker.git
 
-**Navigate to the project directory:
+**Navigate to the project directory:cd expense-tracker
 
-  cd expense-tracker
+**Fetch the required dependencies:flutter pub get
 
-**Fetch the required dependencies:
-  flutter pub get
-
-**Run the app on a connected device or emulator:
-  flutter run
+**Run the app on a connected device or emulator:flutter run
 
 # Contributing
 
